@@ -1,0 +1,19 @@
+h2 {
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.catalog-grid{
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.loader { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
